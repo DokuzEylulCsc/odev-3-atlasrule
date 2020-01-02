@@ -1,7 +1,16 @@
+/*
+2018280056/
+Müslüm Berkay Yılmaz
+
+Kullanılan kaynaklar:
+https://stackoverflow.com/questions/23726724/reading-string-by-char-till-end-of-line-c-c
+http://www.cplusplus.com/doc/tutorial/files/
+
 #include <iostream>
 #include <fstream>
 #include <string>
 #include <cstdlib>
+*/
 
 using namespace std;
 
